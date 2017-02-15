@@ -1,0 +1,22 @@
+{
+    "name": "freya-theme",
+    "displayName": "Freya theme",
+    "description": "A dark color scheme based on work originally done by Georg Dahn.",
+    "version": "3.0.0",
+    "publisher": "Gary Willoughby",
+    "engines": {
+        "vscode": "^1.5.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Freya",
+                "uiTheme": "vs-dark",
+                "path": "./themes/freya.tmTheme"
+            }
+        ]
+    }
+}

@@ -1,2 +1,5 @@
-# vscode
-Visual Studio Code configuration
+# Visual Studio Code configuration
+
+**Themes and configuration for the vscode editor.**
+
+---
