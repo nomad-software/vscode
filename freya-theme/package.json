@@ -1,6 +1,6 @@
 {
 	"name": "freya-theme",
-	"displayName": "Freya theme",
+	"displayName": "Freya color theme",
 	"description": "A dark color scheme based on work originally done by Georg Dahn.",
 	"icon": "images/freya.png",
 	"version": "3.0.0",
@@ -10,7 +10,7 @@
 		"freya"
 	],
 	"engines": {
-		"vscode": "*"
+		"vscode": "^1.9.1"
 	},
 	"categories": [
 		"Themes"

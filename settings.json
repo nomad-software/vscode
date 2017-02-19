@@ -28,7 +28,7 @@
 
     "window.showFullPath": true,
 
-    "go.buildOnSave": false,
+    "go.buildOnSave": true,
     "go.lintOnSave": true,
     "go.vetOnSave": true,
     "go.buildTags": "",
@@ -44,6 +44,8 @@
     "go.goroot": "/home/gary/Applications/go",
     "go.gopath": "/media/Data/Projects/Go",
     "go.gocodeAutoBuild": false,
+
+    "python.pythonPath": "python3",
 
     "vim.autoindent": true,
     "vim.easymotion": false,
@@ -83,6 +85,5 @@
                 }
             ]
         }
-    ],
-    "window.zoomLevel": 0
+    ]
 }
