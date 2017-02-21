@@ -1,0 +1,9 @@
+.monaco-workbench>.part.statusbar {
+	color: #999999 !important;
+	background: #333333 !important;
+}
+
+.margin-view-overlays {
+	color: #595959 !important;
+	background: #212121 !important;
+}
