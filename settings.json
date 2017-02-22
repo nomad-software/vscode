@@ -66,6 +66,7 @@
     "vim.textwidth": 80,
     "vim.timeout": 1000,
     "vim.useCtrlKeys": true,
+    "vim.useSolidBlockCursor": false,
     "vim.useSystemClipboard": false,
     "vim.otherModesKeyBindingsNonRecursive": [
         {
