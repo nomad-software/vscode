@@ -1,4 +1,3 @@
-
 .monaco-workbench>.part.statusbar {
 	color: #999999 !important;
 	background: #333333 !important;
@@ -15,6 +14,10 @@
 }
 
 .monaco-editor.vs-dark .peekview-widget .head {
+	border-top-color: #595959 !important;
+}
+
+.monaco-editor.vs-dark .peekview-widget>.body {
 	border-top-color: #595959 !important;
 }
 

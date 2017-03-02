@@ -6,8 +6,7 @@
     "editor.fontSize": 14,
     "editor.selectionHighlight": false,
     "editor.renderLineHighlight": "all",
-    "editor.wordWrap": true,
-    "editor.wrappingColumn": 0,
+    "editor.wordWrap": "on",
     "editor.renderWhitespace": "boundary",
 
     "files.insertFinalNewline": true,
@@ -26,9 +25,11 @@
     "telemetry.enableTelemetry": false,
     "telemetry.enableCrashReporter": false,
 
+    "workbench.colorTheme": "Freya",
+    "workbench.iconTheme": "vscode-great-icons",
     "workbench.welcome.enabled": false,
 
-    "window.showFullPath": true,
+    "window.title": "${activeEditorLong}",
     "window.zoomLevel": 0,
 
     "go.buildOnSave": true,
