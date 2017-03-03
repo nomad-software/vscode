@@ -1,0 +1,168 @@
+{
+	"Doc block": {
+		"prefix": "doc",
+		"body": [
+			"/**",
+			" * $0",
+			" */"
+		],
+		"description": "An opening documentation comment."
+	},
+	"Property": {
+		"prefix": "var",
+		"body": [
+			"/**",
+			" * @var ${1:string}",
+			" */",
+			"${2:private} \\$${0};"
+		],
+		"description": "Documented Class Variable"
+	},
+	"Constructor": {
+		"prefix": "construct",
+		"body": [
+			"public function __construct(${1})",
+			"{",
+			"\t${2}",
+			"}"
+		],
+		"description": "Class constructor"
+	},
+	"Class": {
+		"prefix": "class",
+		"body": [
+			"class ${1:Foo}",
+			"{",
+			"\tpublic function __construct(${2})",
+			"\t{",
+			"\t\t${3}",
+			"\t}"
+			"}"
+		],
+		"description": "Class definition"
+	},
+	"Function": {
+		"prefix": "function",
+		"body": [
+			"${1:private} function ${2:name}(${3})${4}",
+			"{",
+			"\t${0}",
+			"}"
+		],
+		"description": "Method"
+	},
+	"do loop": {
+		"prefix": "do",
+		"body": [
+			"do {",
+			"\t${0}",
+			"} while (${1});"
+		],
+		"description": "do/while loop"
+	},
+	"if": {
+		"prefix": "if",
+		"body": [
+			"if (${1}) {",
+			"\t${0}",
+			"}"
+		],
+		"description": "if block"
+	},
+	"Ternary expression": {
+		"prefix": "if?",
+		"body": "(${1}) ? ${2} : ${3};",
+		"description": "Ternary expression"
+	},
+	"else": {
+		"prefix": "else",
+		"body": [
+			"else {",
+			"\t${0}",
+			"}"
+		],
+		"description": "else block"
+	},
+	"elseif": {
+		"prefix": "elf",
+		"body": [
+			"elseif (${1}) {",
+			"\t${0}",
+			"}"
+		],
+		"description": "elseif block"
+	},
+	"for …": {
+		"prefix": "for",
+		"body": [
+			"for ($${1:x} = ${2:0}; $${1:x} < $3; $${1:x}++) {",
+			"\t${0}",
+			"}"
+		],
+		"description": "for loop"
+	},
+	"foreach": {
+		"prefix": "foreach",
+		"body": [
+			"foreach (\\$${1:collection} as \\$${2:key} => \\$${4:value}) {",
+			"\t${0}",
+			"}"
+		],
+		"description": "foreach loop"
+	},
+	"switch": {
+		"prefix": "switch",
+		"body": [
+			"switch (${1}) {",
+			"\tcase ${2}:",
+			"\t\t${3}",
+			"\t\tbreak;",
+			"\t$0",
+			"\tdefault:",
+			"\t\t${4}",
+			"}"
+		],
+		"description": "switch block"
+	},
+	"case": {
+		"prefix": "case",
+		"body": [
+			"case ${1}:",
+			"\t${0}",
+			"\tbreak;"
+		],
+		"description": "case block"
+	},
+	"this": {
+		"prefix": "this",
+		"body": "\\$this->$0",
+		"description": "$this->..."
+	},
+	"Throw Exception": {
+		"prefix": "throw",
+		"body": [
+			"throw new ${1:Exception}(${2});",
+		],
+		"description": "Throw an exception"
+	},
+	"while": {
+		"prefix": "while",
+		"body": [
+			"while (${1}) {",
+			"\t${0}",
+			"}"
+		],
+		"description": "while loop"
+	},
+	"try": {
+		"prefix": "try",
+		"body": [
+			"try {",
+			"\t${1}",
+			"} catch (${2:Exception} \\$e) {",
+			"\t${0}",
+			"}"
+		],
+		"description": "try/catch block"
+	}
+}
