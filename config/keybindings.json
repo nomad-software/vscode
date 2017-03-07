@@ -1,0 +1,17 @@
+[
+    {
+        "key": "f3",
+        "command": "editor.action.startFindReplaceAction",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "ctrl+right",
+        "command": "workbench.action.focusNextGroup",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "ctrl+left",
+        "command": "workbench.action.focusPreviousGroup",
+        "when": "editorTextFocus"
+    }
+]
