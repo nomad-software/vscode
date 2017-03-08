@@ -136,6 +136,16 @@
                     "args": []
                 }
             ]
+        },
+        {
+            "before": ["/"],
+            "after": [],
+            "commands": [
+                {
+                    "command": "actions.find",
+                    "args": []
+                }
+            ]
         }
     ]
 }
