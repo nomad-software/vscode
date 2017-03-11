@@ -146,6 +146,16 @@
                     "args": []
                 }
             ]
+        },
+        {
+            "before": ["g", "c"],
+            "after": [],
+            "commands": [
+                {
+                    "command": "editor.action.commentLine",
+                    "args": []
+                }
+            ]
         }
     ]
 }
