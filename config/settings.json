@@ -31,6 +31,7 @@
     "window.zoomLevel": 0,
 
     "workbench.colorTheme": "Freya",
+    "workbench.editor.enablePreview": false,
     "workbench.iconTheme": "file-icons",
     "workbench.welcome.enabled": false,
 
