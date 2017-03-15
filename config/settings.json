@@ -27,12 +27,12 @@
     "telemetry.enableTelemetry": false,
     "telemetry.enableCrashReporter": false,
 
+    "window.title": "${activeEditorLong}",
+    "window.zoomLevel": 0,
+
     "workbench.colorTheme": "Freya",
     "workbench.iconTheme": "file-icons",
     "workbench.welcome.enabled": false,
-
-    "window.title": "${activeEditorLong}",
-    "window.zoomLevel": 0,
 
     "go.buildFlags": [],
     "go.buildOnSave": true,
@@ -153,6 +153,16 @@
             "commands": [
                 {
                     "command": "editor.action.commentLine",
+                    "args": []
+                }
+            ]
+        },
+        {
+            "before": ["u"],
+            "after": [],
+            "commands": [
+                {
+                    "command": "undo",
                     "args": []
                 }
             ]
