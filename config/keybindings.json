@@ -1,5 +1,9 @@
 [
     {
+        "key": "f1",
+        "command": "workbench.view.explorer"
+    },
+    {
         "key": "f3",
         "command": "editor.action.startFindReplaceAction",
         "when": "editorTextFocus"
