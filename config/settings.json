@@ -12,6 +12,7 @@
     "editor.renderLineHighlight": "all",
     "editor.renderWhitespace": "boundary",
     "editor.selectionHighlight": false,
+    "editor.occurrencesHighlight": false,
     "editor.snippetSuggestions": "top",
     "editor.tabCompletion": false,
     "editor.wordWrap": "on",
@@ -38,7 +39,7 @@
     "workbench.colorTheme": "Freya",
     "workbench.editor.enablePreview": false,
     "workbench.iconTheme": "file-icons",
-    "workbench.welcome.enabled": false,
+    "workbench.startupEditor": "none",
     "workbench.colorCustomizations": {
         "statusBar.foreground": "#999999",
         "statusBar.background": "#333333",
@@ -50,6 +51,9 @@
     "go.gocodeAutoBuild": false,
     "go.gopath": "/media/Data/Projects/Go",
     "go.goroot": "/home/gary/Applications/go",
+
+    "python.linting.enabled": false,
+    "python.pythonPath": "python3",
 
     "vim.hlsearch": true,
     "vim.leader": "\\",
