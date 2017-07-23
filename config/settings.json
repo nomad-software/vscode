@@ -55,6 +55,7 @@
     "python.linting.enabled": false,
     "python.pythonPath": "python3",
 
+    "vim.disableAnnoyingNeovimMessage": true,
     "vim.hlsearch": true,
     "vim.leader": "\\",
     "vim.searchHighlightColor": "rgba(41, 94, 142, 1.0)",
@@ -150,6 +151,5 @@
                 }
             ]
         }
-    ],
-    "vim.disableAnnoyingNeovimMessage": true
+    ]
 }
