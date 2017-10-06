@@ -41,6 +41,9 @@
     "workbench.iconTheme": "file-icons",
     "workbench.startupEditor": "none",
     "workbench.colorCustomizations": {
+        "editorInfo.foreground": "#295E8E",
+        "editorWarning.foreground": "#d85d15",
+        "editorError.foreground": "#FF0000",
         "statusBar.foreground": "#999999",
         "statusBar.background": "#333333",
         "peekViewEditor.background": "#1F1F1F",

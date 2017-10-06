@@ -77,6 +77,45 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Comment</string>
+			<key>scope</key>
+			<string>storage.type.class.jsdoc</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#595959</string>
+				<key>fontStyle</key>
+				<string>italic</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Comment</string>
+			<key>scope</key>
+			<string>entity.name.type.instance.jsdoc</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#595959</string>
+				<key>fontStyle</key>
+				<string>italic</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Comment</string>
+			<key>scope</key>
+			<string>variable.other.jsdoc</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#595959</string>
+				<key>fontStyle</key>
+				<string>italic</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Keywords (phpdoc)</string>
 			<key>scope</key>
 			<string>keyword.other.phpdoc</string>
@@ -366,19 +405,6 @@
 				<string></string>
 				<key>foreground</key>
 				<string>#DCDCCC</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>JavaScript comment docblock</string>
-			<key>scope</key>
-			<string>entity.name.type.instance.jsdoc, storage.type.class.jsdoc, variable.other.jsdoc</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#595959</string>
-				<key>fontStyle</key>
-				<string>italic</string>
 			</dict>
 		</dict>
 	</array>
