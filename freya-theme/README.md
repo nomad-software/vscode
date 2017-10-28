@@ -8,4 +8,4 @@ This is an extended and updated version of the original [Vim](http://www.vim.org
 
 ## Screenshot
 
-![Freya](http://i.imgur.com/hHRi6KQ.png)
+![Freya](https://i.imgur.com/nO0jRGN.png)
