@@ -41,14 +41,17 @@
     "workbench.iconTheme": "file-icons",
     "workbench.startupEditor": "none",
     "workbench.colorCustomizations": {
+        "editorError.foreground": "#FF0000",
+        "editorGutter.addedBackground": "#00000000",
+        "editorGutter.deletedBackground": "#00000000",
+        "editorGutter.modifiedBackground": "#00000000",
         "editorInfo.foreground": "#295E8E",
         "editorWarning.foreground": "#d85d15",
-        "editorError.foreground": "#FF0000",
-        "statusBar.foreground": "#999999",
-        "statusBar.background": "#333333",
-        "peekViewEditor.background": "#1F1F1F",
         "peekView.border": "#595959",
-        "peekViewEditor.matchHighlightBackground": "#295E8E"
+        "peekViewEditor.background": "#1F1F1F",
+        "peekViewEditor.matchHighlightBackground": "#295E8E",
+        "statusBar.background": "#333333",
+        "statusBar.foreground": "#999999"
     },
 
     "go.gocodeAutoBuild": false,
