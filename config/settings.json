@@ -51,7 +51,11 @@
         "peekViewEditor.background": "#1F1F1F",
         "peekViewEditor.matchHighlightBackground": "#295E8E",
         "statusBar.background": "#333333",
-        "statusBar.foreground": "#999999"
+        "statusBar.foreground": "#999999",
+        "statusBar.debuggingBackground": "#333333",
+        "statusBar.debuggingForeground": "#999999",
+        "statusBar.noFolderBackground": "#333333",
+        "statusBar.noFolderForeground": "#999999"
     },
 
     "go.gocodeAutoBuild": false,
@@ -61,7 +65,6 @@
     "python.linting.enabled": false,
     "python.pythonPath": "python3",
 
-    "vim.disableAnnoyingNeovimMessage": true,
     "vim.hlsearch": true,
     "vim.leader": "\\",
     "vim.searchHighlightColor": "rgba(41, 94, 142, 1.0)",
