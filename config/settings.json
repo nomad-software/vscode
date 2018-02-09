@@ -40,6 +40,7 @@
     "workbench.editor.enablePreview": false,
     "workbench.iconTheme": "file-icons",
     "workbench.startupEditor": "none",
+	"workbench.statusBar.feedback.visible": false,
     "workbench.colorCustomizations": {
         "editorError.foreground": "#FF0000",
         "editorGutter.addedBackground": "#00000000",
