@@ -64,6 +64,8 @@
     "go.gopath": "/media/Data/Projects/Go",
     "go.goroot": "/home/gary/Applications/go",
 
+    "javascript.implicitProjectConfig.checkJs": true,
+
     "python.linting.enabled": false,
     "python.pythonPath": "python3",
 
