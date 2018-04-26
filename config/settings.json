@@ -1,5 +1,6 @@
 {
     "editor.autoClosingBrackets": false,
+    "editor.codeLens": false,
     "editor.cursorBlinking": "solid",
     "editor.dragAndDrop": false,
     "editor.folding": false,
@@ -60,6 +61,7 @@
         "statusBar.noFolderForeground": "#999999"
     },
 
+    "go.formatTool": "goimports",
     "go.gocodeAutoBuild": false,
     "go.gopath": "/media/Data/Projects/Go",
     "go.goroot": "/home/gary/Applications/go",
