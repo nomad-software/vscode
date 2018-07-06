@@ -9,13 +9,19 @@
         "when": "editorTextFocus"
     },
     {
-        "key": "ctrl+right",
-        "command": "workbench.action.focusNextGroup",
-        "when": "editorTextFocus"
+        "key": "ctrl+up",
+        "command": "workbench.action.focusAboveGroup"
+    },
+    {
+        "key": "ctrl+down",
+        "command": "workbench.action.focusBelowGroup"
     },
     {
         "key": "ctrl+left",
-        "command": "workbench.action.focusPreviousGroup",
-        "when": "editorTextFocus"
+        "command": "workbench.action.focusLeftGroup"
+    },
+    {
+        "key": "ctrl+right",
+        "command": "workbench.action.focusRightGroup"
     }
 ]
