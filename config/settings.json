@@ -1,5 +1,7 @@
 {
-    "editor.autoClosingBrackets": false,
+    "editor.autoClosingBrackets": "never",
+    "editor.autoClosingQuotes": "never",
+    "editor.autoSurround": "never",
     "editor.codeLens": false,
     "editor.cursorBlinking": "solid",
     "editor.dragAndDrop": false,
@@ -18,6 +20,11 @@
     "editor.snippetSuggestions": "top",
     "editor.tabCompletion": false,
     "editor.wordWrap": "on",
+
+    "explorer.decorations.badges": false,
+    "explorer.decorations.colors": false,
+
+    "extensions.showRecommendationsOnlyOnDemand": true,
 
     "files.insertFinalNewline": true,
     "files.exclude": {
@@ -40,9 +47,11 @@
 
     "workbench.colorTheme": "Freya",
     "workbench.editor.enablePreview": false,
+    "workbench.enableExperiments": false,
     "workbench.iconTheme": "file-icons",
+    "workbench.settings.enableNaturalLanguageSearch": false,
     "workbench.startupEditor": "none",
-	"workbench.statusBar.feedback.visible": false,
+    "workbench.statusBar.feedback.visible": false,
     "workbench.colorCustomizations": {
         "editorError.foreground": "#FF0000",
         "editorGutter.addedBackground": "#00000000",
