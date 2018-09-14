@@ -81,6 +81,7 @@
     "vim.leader": "\\",
     "vim.searchHighlightColor": "rgba(41, 94, 142, 1.0)",
     "vim.useCtrlKeys": false,
+    "vim.whichwrap": "b,s,<,>,h,l,[,]",
     "vim.normalModeKeyBindingsNonRecursive": [
         {
             "before": ["leader", "r", "c"],
