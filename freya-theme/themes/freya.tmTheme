@@ -116,9 +116,9 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Keywords (phpdoc)</string>
+			<string>Phpdoc</string>
 			<key>scope</key>
-			<string>keyword.other.phpdoc</string>
+			<string>keyword.other.phpdoc.php, keyword.other.type.php, meta.other.type.phpdoc.php, comment.block.documentation.phpdoc.php</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -313,7 +313,7 @@
 			<key>name</key>
 			<string>Library class&#x2f;type</string>
 			<key>scope</key>
-			<string>support.type, support.class</string>
+			<string>support.type</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
