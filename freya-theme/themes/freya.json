@@ -1,0 +1,187 @@
+{
+	"name": "Freya",
+	"colors": {
+		"editor.background": "#2A2A2A",
+		"editor.findMatchBackground": "#295e8e",
+		"editor.findMatchHighlightBackground": "#295e8e",
+		"editor.findRangeHighlightBackground": "#295e8e",
+		"editor.foreground": "#DCDCCC",
+		"editor.hoverHighlightBackground": "#2A2A2A",
+		"editor.inactiveSelectionBackground": "#424242",
+		"editor.lineHighlightBackground": "#202020",
+		"editor.rangeHighlightBackground": "#202020",
+		"editor.selectionBackground": "#5F5F5F",
+		"editor.wordHighlightBackground": "#575757",
+		"editor.wordHighlightStrongBackground": "#004972",
+		"editorCursor.foreground": "#DCDCCC",
+		"editorIndentGuide.background": "#111111",
+		"editorWhitespace.foreground": "#111111",
+		"peekViewEditor.matchHighlightBackground": "#575757",
+		"peekViewResult.matchHighlightBackground": "#295e8e",
+        "editorError.foreground": "#FF0000",
+        "editorGutter.addedBackground": "#00000000",
+        "editorGutter.deletedBackground": "#00000000",
+        "editorGutter.modifiedBackground": "#00000000",
+        "editorInfo.foreground": "#295E8E",
+        "editorWarning.foreground": "#d85d15",
+        "peekView.border": "#595959",
+        "peekViewEditor.background": "#1F1F1F",
+        "statusBar.background": "#333333",
+        "statusBar.debuggingBackground": "#333333",
+        "statusBar.debuggingForeground": "#999999",
+        "statusBar.foreground": "#999999",
+        "statusBar.noFolderBackground": "#333333",
+        "statusBar.noFolderForeground": "#999999",
+	},
+	"tokenColors": [
+		{
+			"name": "Class",
+			"scope": "entity.name.type",
+			"settings": {
+				"foreground": "#C2AED0"
+			}
+		},
+		{
+			"name": "Inherited class",
+			"scope": "entity.other.inherited-class",
+			"settings": {
+				"foreground": "#E0AF91"
+			}
+		},
+		{
+			"name": "Function",
+			"scope": "entity.name.function",
+			"settings": {
+				"foreground": "#C2AED0"
+			}
+		},
+		{
+			"name": "Function parameter",
+			"scope": "variable.parameter",
+			"settings": {
+				"foreground": "#E0AF91"
+			}
+		},
+		{
+			"name": "Keyword",
+			"scope": "keyword",
+			"settings": {
+				"foreground": "#DABFA5"
+			}
+		},
+		{
+			"name": "Variable",
+			"scope": "variable",
+			"settings": {
+				"foreground": "#E6C7AE"
+			}
+		},
+		{
+			"name": "Operators",
+			"scope": "keyword.operator",
+			"settings": {
+				"foreground": "#E0AF91"
+			}
+		},
+		{
+			"name": "String",
+			"scope": "string",
+			"settings": {
+				"foreground": "#AFE091"
+			}
+		},
+		{
+			"name": "Constant",
+			"scope": [
+				"constant.character",
+				"constant.language",
+				"constant.numeric",
+				"constant.other",
+				"support.constant",
+			],
+			"settings": {
+				"foreground": "#AFE091"
+			}
+		},
+		{
+			"name": "Storage",
+			"scope": "storage",
+			"settings": {
+				"foreground": "#E0AF91"
+			}
+		},
+		{
+			"name": "Storage type",
+			"scope": "storage.type",
+			"settings": {
+				"foreground": "#DABFA5"
+			}
+		},
+		{
+			"name": "Comment",
+			"scope": [
+				"comment",
+				"comment.block.documentation.phpdoc.php",
+				"entity.name.type.instance.jsdoc",
+				"keyword.other.phpdoc.php",
+				"keyword.other.type.php",
+				"meta.other.type.phpdoc.php",
+				"storage.type.class.jsdoc",
+				"variable.other.jsdoc",
+			],
+			"settings": {
+				"foreground": "#595959",
+				"fontStyle": "italic",
+			}
+		},
+		{
+			"name": "Tag name",
+			"scope": "entity.name.tag",
+			"settings": {
+				"foreground": "#E0AF91"
+			}
+		},
+		{
+			"name": "Tag attribute",
+			"scope": "entity.other.attribute-name",
+			"settings": {
+				"foreground": "#DABFA5"
+			}
+		},
+		{
+			"name": "Library API",
+			"scope": [
+				"support.function",
+				"support.other.variable",
+				"support.type",
+			],
+			"settings": {
+				"foreground": "#E0AF91"
+			}
+		},
+		{
+			"name": "Markup Quote",
+			"scope": "markup.quote",
+			"settings": {
+				"foreground": "#AFE091"
+			}
+		},
+		{
+			"name": "Markup Styling",
+			"scope": [
+				"markup.bold",
+				"markup.italic",
+			],
+			"settings": {
+				"foreground": "#AFE091"
+			}
+		},
+		{
+			"name": "Markup Inline",
+			"scope": "markup.inline.raw",
+			"settings": {
+				"foreground": "#C2AED0"
+			}
+		},
+	],
+}

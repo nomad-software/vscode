@@ -20,7 +20,7 @@
 			{
 				"label": "Freya",
 				"uiTheme": "vs-dark",
-				"path": "./themes/freya.tmTheme"
+				"path": "./themes/freya.json"
 			}
 		]
 	}

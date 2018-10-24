@@ -54,23 +54,6 @@
     "workbench.settings.enableNaturalLanguageSearch": false,
     "workbench.startupEditor": "none",
     "workbench.statusBar.feedback.visible": false,
-    "workbench.colorCustomizations": {
-        "editorError.foreground": "#FF0000",
-        "editorGutter.addedBackground": "#00000000",
-        "editorGutter.deletedBackground": "#00000000",
-        "editorGutter.modifiedBackground": "#00000000",
-        "editorInfo.foreground": "#295E8E",
-        "editorWarning.foreground": "#d85d15",
-        "peekView.border": "#595959",
-        "peekViewEditor.background": "#1F1F1F",
-        "peekViewEditor.matchHighlightBackground": "#295E8E",
-        "statusBar.background": "#333333",
-        "statusBar.foreground": "#999999",
-        "statusBar.debuggingBackground": "#333333",
-        "statusBar.debuggingForeground": "#999999",
-        "statusBar.noFolderBackground": "#333333",
-        "statusBar.noFolderForeground": "#999999"
-    },
 
     "go.formatTool": "goimports",
     "go.gocodeAutoBuild": false,
