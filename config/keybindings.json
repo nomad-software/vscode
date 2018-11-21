@@ -23,5 +23,9 @@
     {
         "key": "ctrl+right",
         "command": "workbench.action.focusRightGroup"
+    },
+    {
+        "key": "shift+alt+x",
+        "command": "workbench.files.action.collapseExplorerFolders"
     }
 ]

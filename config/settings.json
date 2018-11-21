@@ -22,8 +22,10 @@
     "editor.tabCompletion": "off",
     "editor.wordWrap": "on",
 
+    "explorer.confirmDelete": false,
     "explorer.decorations.badges": false,
     "explorer.decorations.colors": false,
+    "explorer.openEditors.visible": 0,
 
     "extensions.showRecommendationsOnlyOnDemand": true,
 
@@ -32,7 +34,7 @@
         "**/.DS_Store": true,
         "**/.git": true,
         "**/.hg": true,
-        "**/.svn": true
+        "**/.svn": true,
     },
 
     "search.exclude": {
@@ -63,6 +65,10 @@
     "go.useCodeSnippetsOnFunctionSuggestWithoutType": true,
 
     "javascript.implicitProjectConfig.checkJs": true,
+
+    "php.executablePath": "/usr/bin/php",
+    "php.suggest.basic": false,
+    "php.validate.executablePath": "/usr/bin/php",
 
     "vim.hlsearch": true,
     "vim.leader": "\\",
