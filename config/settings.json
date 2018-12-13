@@ -10,6 +10,7 @@
     "editor.fontLigatures": true,
     "editor.fontSize": 16,
     "editor.hideCursorInOverviewRuler": true,
+    "editor.hover.enabled": false,
     "editor.lineHeight": 18,
     "editor.minimap.enabled": false,
     "editor.occurrencesHighlight": false,
