@@ -60,6 +60,7 @@
     "workbench.editor.restoreViewState": false,
     "workbench.enableExperiments": false,
     "workbench.iconTheme": "file-icons",
+    "workbench.list.keyboardNavigation":"simple",
     "workbench.settings.enableNaturalLanguageSearch": false,
     "workbench.startupEditor": "none",
     "workbench.statusBar.feedback.visible": false,
