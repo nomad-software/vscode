@@ -64,6 +64,7 @@
     "workbench.settings.enableNaturalLanguageSearch": false,
     "workbench.startupEditor": "none",
     "workbench.statusBar.feedback.visible": false,
+    "workbench.tree.indent": 24,
 
     "go.formatTool": "goimports",
     "go.gocodeAutoBuild": false,
