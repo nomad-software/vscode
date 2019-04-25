@@ -13,6 +13,8 @@
 		"editor.selectionBackground": "#5F5F5F",
 		"editor.wordHighlightBackground": "#575757",
 		"editor.wordHighlightStrongBackground": "#004972",
+		"editorBracketMatch.background": "#295e8e",
+		"editorBracketMatch.border": "#295e8e",
 		"editorCursor.foreground": "#DCDCCC",
 		"editorError.foreground": "#FF0000",
 		"editorGroup.border":"#202020",
