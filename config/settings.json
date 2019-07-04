@@ -65,8 +65,8 @@
     "workbench.list.keyboardNavigation":"simple",
     "workbench.settings.enableNaturalLanguageSearch": false,
     "workbench.startupEditor": "none",
-    "workbench.statusBar.feedback.visible": false,
     "workbench.tree.indent": 24,
+    "workbench.tree.renderIndentGuides":"none",
 
     "go.formatTool": "goimports",
     "go.gocodeAutoBuild": false,
