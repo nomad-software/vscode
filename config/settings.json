@@ -1,6 +1,9 @@
 {
     "breadcrumbs.enabled": false,
 
+    "diffEditor.ignoreTrimWhitespace": false,
+    "diffEditor.renderIndicators": false,
+
     "editor.autoClosingBrackets": "never",
     "editor.autoClosingQuotes": "never",
     "editor.autoSurround": "never",
@@ -45,7 +48,7 @@
     "scm.diffDecorations": "none",
 
     "search.exclude": {
-        "**/bower_components": true,
+        "**/vendor": true,
         "**/node_modules": true
     },
 
