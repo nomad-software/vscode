@@ -9,6 +9,7 @@
     "editor.autoSurround": "never",
     "editor.codeLens": false,
     "editor.cursorBlinking": "solid",
+    "editor.cursorSurroundingLines": 5,
     "editor.dragAndDrop": false,
     "editor.folding": false,
     "editor.fontFamily": "'Pragmata Pro', 'DeJaVu Sans Mono', 'Droid Sans Mono', monospace",
