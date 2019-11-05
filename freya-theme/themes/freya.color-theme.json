@@ -41,7 +41,7 @@
 		"statusBar.debuggingForeground": "#999999",
 		"statusBar.foreground": "#999999",
 		"statusBar.noFolderBackground": "#333333",
-		"statusBar.noFolderForeground": "#999999",
+		"statusBar.noFolderForeground": "#999999"
 	},
 	"tokenColors": [
 		{
@@ -107,7 +107,7 @@
 				"constant.language",
 				"constant.numeric",
 				"constant.other",
-				"support.constant",
+				"support.constant"
 			],
 			"settings": {
 				"foreground": "#AFE091"
@@ -125,23 +125,6 @@
 			"scope": "storage.type",
 			"settings": {
 				"foreground": "#DABFA5"
-			}
-		},
-		{
-			"name": "Comment",
-			"scope": [
-				"comment",
-				"comment.block.documentation.phpdoc.php",
-				"entity.name.type.instance.jsdoc",
-				"keyword.other.phpdoc.php",
-				"keyword.other.type.php",
-				"meta.other.type.phpdoc.php",
-				"storage.type.class.jsdoc",
-				"variable.other.jsdoc",
-			],
-			"settings": {
-				"foreground": "#595959",
-				"fontStyle": "italic",
 			}
 		},
 		{
@@ -180,7 +163,7 @@
 			"name": "Markup Styling",
 			"scope": [
 				"markup.bold",
-				"markup.italic",
+				"markup.italic"
 			],
 			"settings": {
 				"foreground": "#AFE091"
@@ -193,5 +176,41 @@
 				"foreground": "#C2AED0"
 			}
 		},
-	],
+		{
+			"name": "Comment",
+			"scope": [
+				"comment",
+				"comment.block.documentation.phpdoc.php",
+				"entity.name.type.instance.jsdoc",
+				"keyword.other.phpdoc.php",
+				"keyword.other.type.php",
+				"meta.other.type.phpdoc.php",
+				"storage.type.class.jsdoc",
+				"variable.other.jsdoc",
+				"string.quoted.docstring.multi.python"
+			],
+			"settings": {
+				"foreground": "#595959",
+				"fontStyle": "italic"
+			}
+		},
+		{
+			"name": "Method decorator",
+			"scope": [
+				"punctuation.definition.decorator.python",
+				"entity.name.function.decorator.python",
+				"meta.function.decorator.python",
+				"meta.function.decorator.python support.type.python",
+				"meta.function.decorator.python variable.parameter.function-call.python",
+				"meta.function.decorator.python keyword.operator.assignment.python",
+				"meta.function.decorator.python string.quoted.single.python",
+				"meta.function.decorator.python constant.other.caps.python",
+				"meta.function.decorator.python constant.language.python"
+			],
+			"settings": {
+				"foreground": "#595959",
+				"fontStyle": "italic"
+			}
+		}
+	]
 }
