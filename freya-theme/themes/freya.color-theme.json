@@ -214,7 +214,9 @@
 				"meta.function.decorator.python keyword.operator.assignment.python",
 				"meta.function.decorator.python string.quoted.single.python",
 				"meta.function.decorator.python constant.other.caps.python",
-				"meta.function.decorator.python constant.language.python"
+				"meta.function.decorator.python constant.language.python",
+				"meta.function.decorator.python constant.numeric.float.python",
+				"meta.function.decorator.python constant.numeric.dec.python"
 			],
 			"settings": {
 				"foreground": "#595959",
