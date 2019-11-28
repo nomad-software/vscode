@@ -64,6 +64,7 @@
     "workbench.editor.enablePreview": false,
     "workbench.editor.focusRecentEditorAfterClose": false,
     "workbench.editor.restoreViewState": false,
+    "workbench.editor.splitSizing":"split",
     "workbench.enableExperiments": false,
     "workbench.iconTheme": "file-icons",
     "workbench.list.keyboardNavigation":"simple",
