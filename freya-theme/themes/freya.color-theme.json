@@ -1,6 +1,15 @@
 {
 	"name": "Freya",
 	"colors": {
+		"activityBar.activeBackground": "#202020",
+		"activityBar.activeBorder": "#094771",
+		"activityBar.background": "#222222",
+		"activityBar.border": "#202020",
+		"activityBar.dropBackground": "#222222",
+		"activityBar.foreground": "#CCCCCC",
+		"activityBar.inactiveForeground": "#858585",
+		"activityBarBadge.background": "#007acc",
+		"activityBarBadge.foreground": "#222222",
 		"editor.background": "#2A2A2A",
 		"editor.findMatchBackground": "#295e8e",
 		"editor.findMatchHighlightBackground": "#295e8e",
