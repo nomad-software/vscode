@@ -196,7 +196,8 @@
 				"meta.other.type.phpdoc.php",
 				"storage.type.class.jsdoc",
 				"variable.other.jsdoc",
-				"string.quoted.docstring.multi.python"
+				"string.quoted.docstring.multi.python",
+				"comment keyword.codetag.notation.python"
 			],
 			"settings": {
 				"foreground": "#595959",
