@@ -44,13 +44,18 @@
         "**/.git": true,
         "**/.hg": true,
         "**/.svn": true,
+        "**/.pyc": true,
+        "**/.pytest_cache": true,
+        "**/__pycache__": true
     },
 
     "scm.diffDecorations": "none",
 
     "search.exclude": {
         "**/vendor": true,
-        "**/node_modules": true
+        "**/node_modules": true,
+        "**/.pytest_cache": true,
+        "**/__pycache__": true
     },
 
     "telemetry.enableTelemetry": false,
