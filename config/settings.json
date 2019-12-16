@@ -19,6 +19,7 @@
     "editor.hover.delay": 1000,
     "editor.lightbulb.enabled": false,
     "editor.lineHeight": 18,
+    "editor.matchBrackets": "near",
     "editor.minimap.enabled": false,
     "editor.occurrencesHighlight": false,
     "editor.parameterHints.cycle": false,
@@ -31,6 +32,7 @@
     "editor.tabCompletion": "off",
     "editor.wordWrap": "on",
 
+    "explorer.compactFolders": false,
     "explorer.confirmDelete": false,
     "explorer.decorations.badges": false,
     "explorer.decorations.colors": false,
