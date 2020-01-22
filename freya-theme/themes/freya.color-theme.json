@@ -155,7 +155,7 @@
 			"scope": [
 				"support.function",
 				"support.other.variable",
-				"support.type",
+				"support.type"
 			],
 			"settings": {
 				"foreground": "#E0AF91"
@@ -207,11 +207,14 @@
 		{
 			"name": "Method decorator",
 			"scope": [
+				"comment keyword.codetag.notation.python",
 				"punctuation.definition.decorator.python",
 				"entity.name.function.decorator.python",
 				"meta.function.decorator.python",
 				"meta.function.decorator.python support.type.python",
+				"meta.function.decorator.python support.type.exception.python",
 				"meta.function.decorator.python variable.parameter.function-call.python",
+				"meta.function.decorator.python keyword.operator.arithmetic.python",
 				"meta.function.decorator.python keyword.operator.assignment.python",
 				"meta.function.decorator.python string.quoted.single.python",
 				"meta.function.decorator.python constant.other.caps.python",
