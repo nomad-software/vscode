@@ -221,7 +221,8 @@
 				"meta.function.decorator.python constant.other.caps.python",
 				"meta.function.decorator.python constant.language.python",
 				"meta.function.decorator.python constant.numeric.float.python",
-				"meta.function.decorator.python constant.numeric.dec.python"
+				"meta.function.decorator.python constant.numeric.dec.python",
+				"meta.function.decorator.python constant.character.format.placeholder.other.python"
 			],
 			"settings": {
 				"foreground": "#595959",
