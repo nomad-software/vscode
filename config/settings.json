@@ -54,11 +54,15 @@
     "scm.diffDecorations": "none",
 
     "search.exclude": {
+        "**/.git": true,
+        "**/.hg": true,
+        "**/.svn": true,
         "**/vendor": true,
         "**/node_modules": true,
         "**/.pytest_cache": true,
         "**/__pycache__": true
     },
+    "search.quickOpen.history.filterSortOrder": "recency",
 
     "telemetry.enableTelemetry": false,
     "telemetry.enableCrashReporter": false,
