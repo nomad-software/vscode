@@ -50,7 +50,9 @@
 		"statusBar.debuggingForeground": "#999999",
 		"statusBar.foreground": "#999999",
 		"statusBar.noFolderBackground": "#333333",
-		"statusBar.noFolderForeground": "#999999"
+		"statusBar.noFolderForeground": "#999999",
+		"titleBar.activeForeground": "#999999",
+		"titleBar.activeBackground": "#222222",
 	},
 	"tokenColors": [
 		{

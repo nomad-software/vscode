@@ -68,7 +68,7 @@
     "telemetry.enableCrashReporter": false,
 
     "window.title": "${activeEditorLong}",
-    "window.titleBarStyle": "native",
+    "window.titleBarStyle": "custom",
     "window.zoomLevel": 0,
 
     "workbench.colorTheme": "Freya",
