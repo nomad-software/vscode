@@ -87,7 +87,7 @@
     "go.formatTool": "goimports",
     "go.gocodeAutoBuild": false,
     "go.gopath": "/media/Data/Projects/Go",
-    "go.goroot": "/home/gary/Applications/go",
+    "go.goroot": "/opt/go",
     "go.useCodeSnippetsOnFunctionSuggest": true,
     "go.useCodeSnippetsOnFunctionSuggestWithoutType": true,
 
