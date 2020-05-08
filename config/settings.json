@@ -50,6 +50,7 @@
         "**/.pytest_cache": true,
         "**/__pycache__": true
     },
+    "files.restoreUndoStack": false,
 
     "scm.diffDecorations": "none",
 
@@ -142,17 +143,17 @@
             ]
         },
         {
-            "before": ["*"],
+            "before": ["%"],
             "after": [],
             "commands": [
                 {
-                    "command": "actions.find",
+                    "command": "editor.action.jumpToBracket",
                     "args": []
                 }
             ]
         },
         {
-            "before": ["#"],
+            "before": ["*"],
             "after": [],
             "commands": [
                 {

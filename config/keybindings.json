@@ -27,10 +27,5 @@
     {
         "key": "shift+alt+x",
         "command": "workbench.files.action.collapseExplorerFolders"
-    },
-    {
-        "key": "shift+5",
-        "command": "editor.action.jumpToBracket",
-        "when": "editorTextFocus"
     }
 ]
