@@ -199,6 +199,7 @@
 				"storage.type.class.jsdoc",
 				"variable.other.jsdoc",
 				"string.quoted.docstring.multi.python",
+				"string.quoted.docstring.multi.python keyword.codetag.notation.python",
 				"string.quoted.docstring.multi.python keyword.control.flow.python",
 				"comment keyword.codetag.notation.python"
 			],
