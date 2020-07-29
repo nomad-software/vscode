@@ -86,6 +86,8 @@
     "workbench.tree.indent": 24,
     "workbench.tree.renderIndentGuides":"none",
 
+    "update.mode": "none",
+
     "go.formatTool": "goimports",
     "go.gocodeAutoBuild": false,
     "go.gopath": "/media/Data/Projects/Go",
