@@ -29,6 +29,7 @@
     "editor.renderIndentGuides": false,
     "editor.renderLineHighlight": "all",
     "editor.renderWhitespace": "boundary",
+    "editor.rulers": [0],
     "editor.selectionHighlight": false,
     "editor.snippetSuggestions": "top",
     "editor.tabCompletion": "off",
