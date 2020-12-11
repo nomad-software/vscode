@@ -32,6 +32,9 @@
     "editor.rulers": [0],
     "editor.selectionHighlight": false,
     "editor.snippetSuggestions": "top",
+    "editor.stickyTabStops": true,
+    "editor.suggest.insertMode": "replace",
+    "editor.suggest.showInlineDetails": false,
     "editor.tabCompletion": "off",
     "editor.wordWrap": "on",
 
@@ -41,7 +44,7 @@
     "explorer.decorations.colors": false,
     "explorer.openEditors.visible": 0,
 
-    "extensions.showRecommendationsOnlyOnDemand": true,
+    "extensions.ignoreRecommendations": true,
 
     "files.insertFinalNewline": true,
     "files.exclude": {
@@ -83,7 +86,7 @@
     "workbench.enableExperiments": false,
     "workbench.iconTheme": "file-icons",
     "workbench.list.keyboardNavigation":"simple",
-    "workbench.sash.size": 20,
+    "workbench.sash.size": 5,
     "workbench.settings.enableNaturalLanguageSearch": false,
     "workbench.startupEditor": "none",
     "workbench.tree.indent": 24,
