@@ -44,6 +44,7 @@
 		"peekViewEditor.background": "#1F1F1F",
 		"peekViewEditor.matchHighlightBackground": "#575757",
 		"peekViewResult.matchHighlightBackground": "#295E8E",
+		"sash.hoverBorder": "#004972",
 		"sideBar.background": "#2A2A2A",
 		"sideBar.border":"#202020",
 		"sideBarSectionHeader.border":"#202020",
