@@ -82,6 +82,8 @@
     "window.zoomLevel": 0,
 
     "workbench.colorTheme": "Freya",
+    "workbench.editor.decorations.badges": false,
+    "workbench.editor.decorations.colors":false,
     "workbench.editor.enablePreview": false,
     "workbench.editor.focusRecentEditorAfterClose": false,
     "workbench.editor.restoreViewState": false,
@@ -89,6 +91,7 @@
     "workbench.enableExperiments": false,
     "workbench.iconTheme": "file-icons",
     "workbench.list.keyboardNavigation":"simple",
+    "workbench.sash.hoverDelay":100,
     "workbench.sash.size": 5,
     "workbench.settings.enableNaturalLanguageSearch": false,
     "workbench.startupEditor": "none",
