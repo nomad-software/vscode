@@ -100,8 +100,6 @@
 
     "update.mode": "none",
 
-    "go.formatTool": "goimports",
-    "go.gocodeAutoBuild": false,
     "go.gopath": "/media/Data/Projects/Go",
     "go.goroot": "/opt/go",
     "go.toolsManagement.checkForUpdates": "off",
@@ -111,6 +109,8 @@
     "php.executablePath": "/usr/bin/php",
     "php.suggest.basic": false,
     "php.validate.executablePath": "/usr/bin/php",
+
+    "python.linting.enabled": false,
 
     "vim.hlsearch": true,
     "vim.leader": "\\",
