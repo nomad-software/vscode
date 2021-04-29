@@ -113,6 +113,7 @@
     "python.linting.enabled": false,
 
     "vim.hlsearch": true,
+    "vim.joinspaces": false,
     "vim.leader": "\\",
     "vim.searchHighlightColor": "rgba(41, 94, 142, 1.0)",
     "vim.useCtrlKeys": false,
