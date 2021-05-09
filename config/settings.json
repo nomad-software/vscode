@@ -77,6 +77,7 @@
     "telemetry.enableTelemetry": false,
     "telemetry.enableCrashReporter": false,
 
+    "window.dialogStyle": "custom",
     "window.title": "${activeEditorLong}",
     "window.titleBarStyle": "custom",
     "window.zoomLevel": 0,
@@ -88,6 +89,7 @@
     "workbench.editor.focusRecentEditorAfterClose": false,
     "workbench.editor.restoreViewState": false,
     "workbench.editor.splitSizing":"split",
+    "workbench.editor.untitled.hint": "hidden",
     "workbench.enableExperiments": false,
     "workbench.iconTheme": "file-icons",
     "workbench.list.keyboardNavigation":"simple",
