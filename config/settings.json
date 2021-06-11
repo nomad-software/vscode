@@ -10,6 +10,7 @@
     "editor.codeLens": false,
     "editor.colorDecorators": false,
     "editor.cursorBlinking": "solid",
+    "editor.cursorStyle": "line",
     "editor.cursorSurroundingLines": 5,
     "editor.dragAndDrop": false,
     "editor.find.addExtraSpaceOnTop": false,
@@ -23,6 +24,7 @@
     "editor.hover.delay": 1000,
     "editor.lightbulb.enabled": false,
     "editor.lineHeight": 20,
+    "editor.lineNumbers": "on",
     "editor.links": false,
     "editor.matchBrackets": "near",
     "editor.minimap.enabled": false,
@@ -37,6 +39,7 @@
     "editor.snippetSuggestions": "top",
     "editor.stickyTabStops": true,
     "editor.suggest.insertMode": "replace",
+    "editor.suggest.preview": false,
     "editor.suggest.showInlineDetails": false,
     "editor.tabCompletion": "off",
     "editor.wordWrap": "on",
@@ -73,6 +76,7 @@
         "**/__pycache__": true
     },
     "search.quickOpen.history.filterSortOrder": "recency",
+    "security.workspace.trust.enabled": false,
 
     "telemetry.enableTelemetry": false,
     "telemetry.enableCrashReporter": false,
