@@ -35,6 +35,11 @@
     "editor.renderLineHighlight": "all",
     "editor.renderWhitespace": "boundary",
     "editor.rulers": [0],
+    "editor.scrollbar.horizontal": "visible",
+    "editor.scrollbar.horizontalScrollbarSize": 20,
+    "editor.scrollbar.scrollByPage": true,
+    "editor.scrollbar.vertical": "visible",
+    "editor.scrollbar.verticalScrollbarSize": 20,
     "editor.selectionHighlight": false,
     "editor.snippetSuggestions": "top",
     "editor.stickyTabStops": true,
@@ -75,6 +80,7 @@
         "**/.pytest_cache": true,
         "**/__pycache__": true
     },
+    "search.maxResults": 10000,
     "search.quickOpen.history.filterSortOrder": "recency",
     "security.workspace.trust.enabled": false,
 
